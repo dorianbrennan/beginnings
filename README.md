@@ -1,9 +1,9 @@
 ## beginnings
-#####by Dorian Brennan
+##### by Dorian Brennan
 
-##[Photography](photography/photography.md)
+## [Photography](photography/photography.md)
 
-##[Short Stories](stories/shortstories.md)
+## [Short Stories](stories/shortstories.md)
 
 
 
