@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## beginnings
+#####by Dorian Brennan
 
-#[Photography](photography/photography.md)
+##[Photography](photography/photography.md)
+
+##[Short Stories](stories/shortstories.md)
 
 
 
