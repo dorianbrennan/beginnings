@@ -22,7 +22,7 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
-        {% endif %}
+      
 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
