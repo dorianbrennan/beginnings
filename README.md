@@ -6,7 +6,7 @@ The site is a place to showcase a selection of my photography and a place to sha
 
 I've got no website or coding experience and I'm using this site to educate myself in both. For those that are interested I will be writing this in [markdown](https://daringfireball.net/projects/markdown/) and hosting it on [github](https://github.com/dorianbrennan/beginnings "github"). 
 
-So check back in from time to time to see what's new. 
+So [check](about.md) back in from time to time to see what's new. 
 
 Also you can get in contact with me on [twitter](https://twitter.com/dorian_brennan "twitter"). 
 
