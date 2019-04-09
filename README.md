@@ -10,7 +10,9 @@ So [check](about.md) back in from time to time to see what's new.
 
 Also you can get in contact with me on [twitter](https://twitter.com/dorian_brennan "twitter"). 
 
+---
 
-##### [Photography](photography/photography.md)
 
-##### [Short Stories](stories/shortstories.md)
+### [Photography](photography/photography.md)
+
+### [Short Stories](stories/shortstories.md)
