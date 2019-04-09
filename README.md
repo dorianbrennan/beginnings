@@ -1,6 +1,3 @@
----
-<link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico">
----
 
 ### Welcome - April 2019
 So this is my site, welcome. 
