@@ -1,42 +1,17 @@
 ## beginnings
 ##### by Dorian Brennan
 
-## [Photography](photography/photography.md)
+##### Welcome - April 2019
+So this is my site, welcome. 
+It might be a bit sparse at this point but I'm committed to updating it, changing the layout and just experimenting with what I think works and looks good. 
 
-## [Short Stories](stories/shortstories.md)
+I've got no website or coding experience and I'm using this site to educate myself in both. For those that are interested I will be writing this in [markdown](https://daringfireball.net/projects/markdown/) and hosting it on [github](https://github.com/dorianbrennan/beginnings "github"). 
+
+So check back in from time to time to see what's new. 
+
+Also you can get in contact with me on [twitter](https://twitter.com/dorian_brennan "twitter"). 
 
 
+##### [Photography](photography/photography.md)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dorianbrennan/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-[about](about.md)
+##### [Short Stories](stories/shortstories.md)
