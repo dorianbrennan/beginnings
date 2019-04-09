@@ -1,6 +1,3 @@
-## beginnings
-##### by Dorian Brennan
-
 ##### Welcome - April 2019
 So this is my site, welcome. 
 It might be a bit sparse at this point but I'm committed to updating it, changing the layout and just experimenting with what I think works and looks good. 
