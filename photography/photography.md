@@ -2,8 +2,8 @@
 #### A curated selection of works.
 
 
-[Ocean Collection](ocean.md)
+[🏝 Ocean Collection](ocean.md)
 
-[City Collection](city.md)
+[🌃 City Collection](city.md)
 
 
